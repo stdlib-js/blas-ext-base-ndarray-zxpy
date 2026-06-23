@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-22)
+## Unreleased (2026-06-23)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`36c1beb`](https://github.com/stdlib-js/stdlib/commit/36c1beb26264b0bb537c3a9d439b730e156172a9) - **docs:** update Markdown stdlib package URLs [(#13072)](https://github.com/stdlib-js/stdlib/pull/13072) _(by stdlib-bot)_
 -   [`ef06e88`](https://github.com/stdlib-js/stdlib/commit/ef06e88569a1ec15a9fcc15407fc44bbe3916296) - **feat:** add `blas/ext/base/ndarray/zxpy` [(#13037)](https://github.com/stdlib-js/stdlib/pull/13037) _(by Karan Anand)_
 
 </details>
